@@ -3,7 +3,7 @@ Throughout my career I have been tasked with analyzing data to assess trends, cr
 With an interest in data collection and analysis, I started researching the relevant tools and terminology commonly used by professionals within the field, including Tableau, Customer Relationship Management ("CRM") databases, as well as Relational database management system Software (SQL).
 
 Please don't hesitate to contact me through my email or LinkedIn found below:
-- RHarris2014@outlook.com
+- rjharris2025@gmail.com
 - linkedin.com/in/robjamesharris
 
 <!---
